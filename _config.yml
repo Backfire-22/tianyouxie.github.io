@@ -1,0 +1,19 @@
+title: "Tianyou Xie"
+author: "Tianyou Xie"
+email: "tianyou.xie@vanderbilt.edu"
+description: "Mechanical Engineering and Mathematics student at Vanderbilt University. Researcher in fluid–structure interactions and computational modeling."
+
+# Use the academicpages theme via a remote theme on GitHub. This pulls in the
+# layouts and styles provided by the academicpages template.
+remote_theme: "academicpages/academicpages"
+
+# Optional social links (leave empty if not used)
+github_username: ""
+linkedin_username: ""
+google_scholar: ""
+
+# Plugins commonly used with academicpages; GitHub Pages will automatically
+# install and use the versions listed in its build environment.
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
